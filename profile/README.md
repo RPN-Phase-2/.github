@@ -16,13 +16,13 @@ Phase 2 ini terdiri dari 5 minggu yang mencakup berbagai aspek pengembangan fron
 - Material Project:
   - Zexo Card
   - Zexo Ice Cream
-- Logic Challenge: Pet Shop (HTML, CSS)
+- Logic Nolep: Pet Shop (HTML, CSS)
 - jQuery
 - AJAX
-- Logic Challenge: Inventory System Registration & Login Form
+- Logic Nolep: Inventory System Registration & Login Form
 - Local Storage
 - Group Project Challenge: jQuery
-- Explore Challenge
+- Explore Nolep
 - Soft Skills: Good Presentation
 - Deployment Frontend: Vercel
 
@@ -37,9 +37,9 @@ Phase 2 ini terdiri dari 5 minggu yang mencakup berbagai aspek pengembangan fron
 - Fetching Data (axios)
 - Material Project: Pokemon Collection
 - Public API
-- Logic Challenge: React Project using public API
-- CSS Framework (MUI)
-- Logic Challenge: React Inventory System
+- Logic Nolep: React Project using public API
+- TailwindCSS
+- Logic Nolep: React Inventory System
 - Group Project Challenge: Public API
 - Soft Skills: Problem Solver
 
@@ -51,12 +51,12 @@ Phase 2 ini terdiri dari 5 minggu yang mencakup berbagai aspek pengembangan fron
 - Portfolio Challenge: E-Commerce
 - Tanstack Query (handle data fetching, mutate and rehydrate)
 - Global State Management: Redux
-- TailwindCSS
+- CSS Framework (MUI)
 - More Tanstack (Tanstack Router, Tables, Form)
 - Frontend Testing (Cypress)
 - Clerk Authentication
-- Explore Challenge: Layouting Grid
-- Group Project Challenge: Stripe + Clerk Challenge
+- Explore Nolep: Layouting Grid
+- Group Project Challenge: Stripe + Clerk Nolep
 - Soft Skills: Self Marketing
 
 ## Front End Framework: Next.js (Week 4)
@@ -69,8 +69,8 @@ Phase 2 ini terdiri dari 5 minggu yang mencakup berbagai aspek pengembangan fron
 - TypeScript
 - Translation (linquimacro, next-translate)
 - Portfolio Challenge: Events App
-- Explore Challenge: AI Tools
-- Group Project: Next.js
+- Explore Nolep: AI Tools
+- Group Project Challenge: Next.js
 - Soft Skills: Persistence and Patience
 
 ## FullStack Enhancement (Week 5)
@@ -85,9 +85,9 @@ Phase 2 ini terdiri dari 5 minggu yang mencakup berbagai aspek pengembangan fron
 ## Submit Tugas
 Untuk cara submit tugas di phase 2 hampir sama seperti sebelumnya. Jika kalian sudah melihat thread ini, harusnya kalian sudah masuk ke organization phase 2 dan sudah bisa fork repo week1.
 
-## Explore Challenge
-Dari habit phase 1, level kalian sekarang harusnya sudah bisa membaca dokumentasi sendiri atau self-learning. Di phase 2 ini, sebisa mungkin kalian harus speed up eksplorasi kalian karena akan banyak library yang perlu di-explore. Explore Challenge ini tugas yang bersifat wajib dan akan dinilai di phase 2. 
-**Porsi penilaian ini adalah 30%, jadi jangan sampai tidak mengerjakan challenge explore.**
+## Explore Nolep
+Dari habit phase 1, level kalian sekarang harusnya sudah bisa membaca dokumentasi sendiri atau self-learning. Di phase 2 ini, sebisa mungkin kalian harus speed up eksplorasi kalian karena akan banyak library yang perlu di-explore. Explore Nolep ini tugas yang bersifat wajib dan akan dinilai di phase 2. 
+**Porsi penilaian ini adalah 30%, jadi jangan sampai tidak mengerjakan Nolep explore.**
 
 ## Soft Skills
 Di phase 2 ini , gua ga cuman ngajarin praktikal dan teknis tentang front end saja. gua juga bakal ngajarin soft skills yang kalian harus pelajarin agar bisa jadi programmer yang baik.
