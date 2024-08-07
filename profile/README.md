@@ -48,10 +48,10 @@ Phase 2 ini terdiri dari 5 minggu yang mencakup berbagai aspek pengembangan fron
 - Learn Core Hooks (useRef, useContext, useCallback, useMemo)
 - Advance React Concepts (rendering logic, reusable hooks, patterns, composition to avoid prop drilling)
 - Stripe Payment Gateway
-- Portfolio Challenge: E-Commerce
 - Tanstack Query (handle data fetching, mutate and rehydrate)
 - Global State Management: Redux
 - CSS Framework (MUI)
+- Portfolio Challenge: E-Commerce
 - More Tanstack (Tanstack Router, Tables, Form)
 - Frontend Testing (Cypress)
 - Clerk Authentication
