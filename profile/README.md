@@ -52,6 +52,7 @@ Phase 2 ini terdiri dari 5 minggu yang mencakup berbagai aspek pengembangan fron
 - Global State Management: Redux
 - CSS Framework (MUI)
 - Portfolio Challenge: E-Commerce
+- UI/UX Behavior
 - More Tanstack (Tanstack Router, Tables, Form)
 - Frontend Testing (Cypress)
 - Clerk Authentication
