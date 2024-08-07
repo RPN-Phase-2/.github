@@ -44,9 +44,9 @@ Phase 2 ini terdiri dari 5 minggu yang mencakup berbagai aspek pengembangan fron
 - Soft Skills: Problem Solver
 
 ## Front End Advance (Week 3)
+- Vite Introduction
 - Learn Core Hooks (useRef, useContext, useCallback, useMemo)
 - Advance React Concepts (rendering logic, reusable hooks, patterns, composition to avoid prop drilling)
-- Vite Introduction
 - Stripe Payment Gateway
 - Portfolio Challenge: E-Commerce
 - Tanstack Query (handle data fetching, mutate and rehydrate)
